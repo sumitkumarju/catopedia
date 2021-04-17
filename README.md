@@ -1,16 +1,16 @@
-# Flash Card
-A react app for Geography flashcards about countries+capitals.
+# Cat-o-pedia
+A wiki app for cats exclusively.
 
-Works with REST Countries API in the backend.
+Works with REST thecatapi in the backend.
 
 This project was a part of 30 days with React Series by Asabeneh.
 
 Deployed using netlify.
 
 ## Demo
-Link: [https://angry-bell-0e3732.netlify.app/](https://angry-bell-0e3732.netlify.app/)
+Link: [https://sleepy-brattain-da7fcf.netlify.app/](https://sleepy-brattain-da7fcf.netlify.app/)
 
-[![](https://github.com/sumitkumarju/flashcard/blob/main/Capture.PNG)]
+[![](https://github.com/sumitkumarju/catopedia/blob/main/Capture.PNG)]
 
 ## Installation 
  Clone the directory.
